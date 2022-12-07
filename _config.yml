@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sourabh Shende"
 title_separator          : "-"
 name                     : &name "Sourabh Shende"
-description              : &description "PhD studenet, Department of Mechanical and Material Engineering, University of Cincinnati"
+description              : &description "PhD student, Department of Mechanical and Material Engineering, University of Cincinnati"
 url                      : https://Sourabh-Shende.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sourabh-Shende/Sourabh-Shende.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Somdatta Goswami"
+  name             : "Sourabh Shende"
   avatar           : "somdatta.jpg"
-  bio              : "Assistant Professor (Research), Department of Applied Mathematics, Brown University"
-  location         : "Providence, USA"
+  bio              : "PhD student, Department of Mechanical and Material Engineering, University of Cincinnati"
+  location         : "Cincinnati, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en#"
-  email            : "somdatta_goswami@brown.edu"
-  researchgate     : "https://www.researchgate.net/profile/Somdatta-Goswami"
+  googlescholar    : "https://scholar.google.com/citations?user=74FkutUAAAAJ&hl=en#"
+  email            : "shendesc@mail.uc.edu"
+  researchgate     : "https://www.researchgate.net/profile/Sourabh-Shende-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "somdattagoswami"
+  github           : "https://github.com/Sourabh-Shende"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "somdatta-goswami-03a21943"
-  orcid            : "https://orcid.org/0000-0002-8255-9080"
+  linkedin         : "www.linkedin.com/in/sourabh-shende"
+  orcid            : "https://orcid.org/0000-0002-1525-9037"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
