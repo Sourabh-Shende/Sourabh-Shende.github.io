@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Somdatta Goswami"
+title                    : "Sourabh Shende"
 title_separator          : "-"
-name                     : &name "Somdatta Goswami"
-description              : &description "Assistant Professor (Research), Department of Applied Mathematics, Brown University"
-url                      : https://somdattagoswami.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sourabh Shende"
+description              : &description "PhD studenet, Department of Mechanical and Material Engineering, University of Cincinnati"
+url                      : https://Sourabh-Shende.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "somdattagoswami/somdattagoswami.github.io"
+repository               : "Sourabh-Shende/Sourabh-Shende.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
