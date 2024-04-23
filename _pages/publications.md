@@ -4,10 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Submitted manuscript
+## Research Publications
 
 
-## Journal Papers
+## Journal Articles
 
 1. **Sourabh Shende**, and Kumar Vemaganti. [Application of energy-based physics informed machine learning for Multistable beam structure] *European Journal of Mechanics - A/Solids (in preparation)*.
 1. **Sourabh Shende**, Andrew Gillman, Philip Buskohl, and Kumar Vemaganti. [Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8) *Structural and Multidisciplinary Optimization*  65 (2022).
@@ -18,7 +18,7 @@ author_profile: true
                                                                         
 - <sup>\*</sup>Contributed equally
 
-## Conference Talk
+## Conference Talks
 
 1.  **Sourabh Shende**, and Kumar Vemaganti. Application of Physics Informed Machine Learning for Buckling of Bi-stable Beam Structure. *17th U.S. National Congress on Computational Mechanics* July 23-27, 2023.
   
