@@ -9,6 +9,7 @@ author_profile: true
 
 ## Journal Papers
 
+1. **Sourabh Shende**, and Kumar Vemaganti. [Application of energy-based physics informed machine learning for Multistable beam structure] *European Journal of Mechanics - A/Solids (in preparation)*.
 1. **Sourabh Shende**, Andrew Gillman, Philip Buskohl, and Kumar Vemaganti. [Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8) *Structural and Multidisciplinary Optimization*  65 (2022).
 1. Teng Long, **Sourabh Shende**, Chia-Ying Lin and Kumar Vemaganti. [Experiments and hyperelastic modeling of porcine meniscus show heterogeneity at high strains](https://link.springer.com/article/10.1007/s10237-022-01611-3) *Biomechanics and Modeling in Mechanobiology* 21 (2022)
 1. **Sourabh Shende**, Andrew Gillman, David Yoo, Philip Buskohl, and Kumar Vemaganti. [Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992) *Structural and Multidisciplinary Optimization* 63 (2021).
