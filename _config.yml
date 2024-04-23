@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sourabh Shende"
 title_separator          : "-"
 name                     : &name "Sourabh Shende"
-description              : &description "PhD student, Department of Mechanical and Material Engineering, University of Cincinnati"
+description              : &description "PhD candidate, Department of Mechanical and Material Engineering, University of Cincinnati"
 url                      : https://Sourabh-Shende.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sourabh-Shende/Sourabh-Shende.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sourabh Shende"
   avatar           : "DisplayPic.jpg"
-  bio              : "PhD student, Department of Mechanical and Material Engineering, University of Cincinnati"
+  bio              : "PhD candidate, Department of Mechanical and Material Engineering, University of Cincinnati"
   location         : "Cincinnati, USA"
   employer         :
   pubmed           : 
