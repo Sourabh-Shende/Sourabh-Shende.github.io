@@ -15,4 +15,4 @@ I also work as a Graduate research assistant on research projects in collaborati
 I recently passed my PhD candidacy defense and am actively looking for job opportunities in the area of numerical development and scientific machine learning. I earned my Master of Science (M.S.) in mechanical engineering in 2020 from the University of Cincinnati, where my research was focused on developing an efficient Bayesian optimization algorithm to discover optimal design solutions for origami-inspired folding structures.
 
 - Resume: [Link](https://Sourabh-Shende.github.io/_pages/Resume_SourabhShende.pdf)
-- Projects overview: [Link](https://Sourabh-Shende.github.io/_pages/project.md)
+- Projects overview: [Link](https://sourabh-shende.github.io/projects/)
