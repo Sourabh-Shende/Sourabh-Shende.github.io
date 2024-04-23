@@ -20,4 +20,6 @@ author_profile: true
 
 ## Conference Talk
 
+1.  **Sourabh Shende**, and Kumar Vemaganti. Application of Physics Informed Machine Learning for Buckling of Bi-stable Beam Structure. *17th U.S. National Congress on Computational Mechanics* July 23-27, 2023.
+  
 1.  **Sourabh Shende**, and Kumar Vemaganti. Bayesian topology optimization for efficient design of origami folding structures. *16th U.S. National Congress on Computational Mechanics* July 25-29, 2021.
