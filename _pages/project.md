@@ -11,6 +11,7 @@ author_profile: true
   <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="500" height="400">
 </p>
 
+
 ## Gradient-enhanced Bayesian optimization
 
 ## Anisotropy-enhanced Bayesian optimization
