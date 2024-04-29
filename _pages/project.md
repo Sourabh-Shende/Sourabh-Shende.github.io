@@ -7,9 +7,7 @@ author_profile: true
 
 ## Bayesian optimization for origami-inspired folding structures
 
-<p align="center">
-  <img src="https://Sourabh-Shende/Sourabh-Shende.github.io/Figures/GPBO_1D_w_der_iter_1.pdf" width="500" height="400">
-</p>
+<iframe src="https://example.com/yourfile.pdf" width="100%" height="600px"></iframe>
 
 ## Gradient-enhanced Bayesian optimization
 
