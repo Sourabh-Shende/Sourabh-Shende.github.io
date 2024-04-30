@@ -15,24 +15,24 @@ author_profile: true
 
   - Chomper origami folding structure <br>    
 <table class="wide:70%" style="border: none">
-<tr>
+<tr style="border: none">
    <th align="center" style="width:35%">Problem setup</th>
    <th align="center" style="width:35%">Evolution of objective function</th>
   </tr>
-  <tr>
-  <td align="center">
+  <tr style="border: none">
+  <td align="center" style="border: none">
       <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/>  
   </td>
-  <td align="center">
+  <td align="center" style="border: none">
     <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/><br>   
   </td>
-    <tr>
+    <tr style="border: none">
    <th align="center" style="width:35%">Number of objective function evaluations</th>
    <th align="center" style="width:35%">Best fold pattern</th>
   </tr>
  </tr>
-<tr>
-  <td align="center">
+<tr style="border: none">
+  <td align="center" style="border: none">
     <img src="https://Sourabh-Shende.github.io/Figures/FE_solution_comparison_18D.jpg" alt="Objective function evaluations" title="Number of objective function evaluations" width="300" height="200"/>
   </td>
    <td align="center">
@@ -45,27 +45,27 @@ author_profile: true
   - Twist chomper origami folding structure<br>
   
 <table class="wide:70%" style="border: none">
- <tr>
+ <tr style="border: none">
    <th align="center" style="width:35%">Problem setup</th>
    <th align="center" style="width:35%">Evolution of objective function</th>
   </tr>
 <tr>
-  <td align="center">
+  <td align="center" style="border: none">
      <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/>
   </td>
   <td align="center">
     <img src="https://Sourabh-Shende.github.io/Figures/5_Comparison_of_gradient_bayesian_optimal_obj_funct_38D_ts_5.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/>
   </td>
-  <tr>
+  <tr style="border: none">
    <th align="center" style="width:35%">Number of objective function evaluations</th>
    <th align="center" style="width:35%">Best fold pattern</th>
   </tr>
    </tr>
-<tr>
- <td align="center">
+<tr style="border: none">
+ <td align="center" style="border: none">
     <img src="https://Sourabh-Shende.github.io/Figures/FE_solution_comparison_38D.jpg" alt="Objective function evaluations" title="Number of objective function evaluations" width="300" height="200"/>
   </td>
-  <td align="center">
+  <td align="center" style="border: none">
     <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>
   </td>
 </tr>
