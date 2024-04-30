@@ -83,7 +83,7 @@ author_profile: true
      <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="without derivative" title="without derivative" width="300" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="with derivative" title="with derivative" width="300" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_w_der.gif" alt="with derivative" title="with derivative" width="300" height="200"/>
   </td>
  </tr>
 </table>
