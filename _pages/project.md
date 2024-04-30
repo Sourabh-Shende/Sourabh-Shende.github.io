@@ -32,7 +32,7 @@ author_profile: true
     <label>Number of objective function evaluations</label>
   </td>
    <td>
-    <img src="https://Sourabh-Shende.github.io/Figures/chomper_opt_design.gif" alt="Objective function evaluations" title="Number of objective function evaluations"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern"/>
     <label>Best fold pattern</label>
   </td>
 </tr>
@@ -52,7 +52,7 @@ author_profile: true
     <label>Number of objective function evaluations</label>
   </td>
    <td>
-    <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Objective function evaluations" title="Number of objective function evaluations"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern"/>
     <label>Best fold pattern</label>
   </td>
 </tr>
