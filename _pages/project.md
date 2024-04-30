@@ -5,10 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-<head>
 <style>
 table, th, td {
-  border: none;
+  border:none; 
 }
 </style>
   
