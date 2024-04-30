@@ -133,10 +133,10 @@ author_profile: true
    </tr>
 <tr style="border: none">
  <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Fig12b.jpg" alt="Evolution of objective function" title="Evolution of objective function" width="300" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Fig12a.jpg" alt="Evolution of objective function" title="Evolution of objective function" width="300" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Fig12b.jpg" alt="Computational time" title="Computational time" width="300" height="150"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Fig12b.jpg" alt="Computational time" title="Computational time" width="300" height="200"/>
   </td>
 </tr>
 </table>
@@ -165,7 +165,7 @@ author_profile: true
     <img src="https://Sourabh-Shende.github.io/Figures/Fig19b.jpg" alt="Computational time" title="Computational time" width="300" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/square_twist_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>
   </td>
 </tr>
 </table>
