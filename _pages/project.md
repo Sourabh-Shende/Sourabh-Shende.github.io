@@ -133,7 +133,7 @@ author_profile: true
    </tr>
 <tr style="border: none">
  <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Fig12a.jpg" alt="Evolution of objective function" title="Evolution of objective function" width="300" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Fig12b.jpg" alt="Evolution of objective function" title="Evolution of objective function" width="300" height="200"/>
   </td>
   <td align="center" style="border: none">
     <img src="https://Sourabh-Shende.github.io/Figures/Fig12b.jpg" alt="Computational time" title="Computational time" width="300" height="150"/>
