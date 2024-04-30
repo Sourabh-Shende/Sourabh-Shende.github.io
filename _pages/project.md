@@ -73,6 +73,7 @@ author_profile: true
 
 
 ## Gradient-enhanced Bayesian optimization
+  - 1D schematic<br>
 <table class="wide:70%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:35%" style="border: none">BO</th>
@@ -88,6 +89,26 @@ author_profile: true
  </tr>
 </table>
 
+  - 2D schematic<br>
+
+ <table class="wide:72%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:24%" style="border: none">Objective function</th>
+   <th align="center" style="width:24%" style="border: none">GP</th>
+   <th align="center" style="width:24%" style="border: none">Gradient enriched GP</th>  
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="Objective function" title="Objective function" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_w_der.gif" alt="GP" title="GP" width="300" height="200"/>
+  </td>
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_w_der.gif" alt="Gradient enriched GP" title="Gradient enriched GP" width="300" height="200"/>
+  </td>
+ </tr>
+</table>
 
 
 ## Anisotropy-enhanced Bayesian optimization
