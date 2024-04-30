@@ -5,6 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
+<head>
+<style>
+table, th, td {
+  border: none;
+}
+</style>
+  
 ## Bayesian optimization for origami-inspired folding structures
 
 <p align="center">
