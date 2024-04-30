@@ -73,7 +73,9 @@ author_profile: true
 
 
 ## Gradient-enhanced Bayesian optimization
+
   - 1D schematic<br>
+  
 <table class="wide:70%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:35%" style="border: none">BO</th>
@@ -99,13 +101,13 @@ author_profile: true
   </tr>
 <tr>
   <td align="center" style="border: none">
-     <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="Objective function" title="Objective function" width="300" height="200"/>
+     <img src="https://Sourabh-Shende.github.io/Figures/Fig2a.jpg" alt="Objective function" title="Objective function" width="200" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_w_der.gif" alt="GP" title="GP" width="300" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Fig2b.jpg" alt="GP" title="GP" width="200" height="200"/>
   </td>
  <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_w_der.gif" alt="Gradient enriched GP" title="Gradient enriched GP" width="300" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Fig2c.jpg" alt="Gradient enriched GP" title="Gradient enriched GP" width="200" height="200"/>
   </td>
  </tr>
 </table>
