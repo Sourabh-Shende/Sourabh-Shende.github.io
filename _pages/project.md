@@ -38,7 +38,7 @@ author_profile: true
 </tr>
 <tr>
   <td>
-     <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="200"/>
+     <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="400" height="200"/>
     <label>Twist chomper problem setup</label>
   </td>
   <td>
