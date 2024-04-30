@@ -256,9 +256,9 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 </table>
 
 <p align="center">
-  <img src="https://Sourabh-Shende.github.io/Figures/MinpotentFEMDEMProb5Elem250ls20inkscape.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/>
-</p>
-<label>Minimum potential energy evolution comparison.</label><br>
+  <img src="https://Sourabh-Shende.github.io/Figures/MinpotentFEMDEMProb5Elem250ls20inkscape.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/><label>Minimum potential energy evolution comparison.</label>
+</p><br>
+
 
   - Bi-stable unit cell<br>
  
