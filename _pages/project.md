@@ -17,6 +17,8 @@ author_profile: true
 <tr>
    <th style="width:35%">Problem setup</th>
    <th style="width:35%">Evolution of objective function</th>
+  </tr>
+  <tr>
   <td>
      <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup"width="300" height="150"/><br>    <label>Problem setup</label>
   </td>
