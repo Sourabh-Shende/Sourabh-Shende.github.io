@@ -73,7 +73,20 @@ author_profile: true
 
 
 ## Gradient-enhanced Bayesian optimization
-
+<table class="wide:70%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">BO</th>
+   <th align="center" style="width:35%" style="border: none">Gradient enriched BO</th>
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="without derivative" title="without derivative"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="with derivative" title="with derivative"/>
+  </td>
+ </tr>
+</table>
 
 
 
