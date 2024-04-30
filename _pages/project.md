@@ -231,11 +231,11 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
   - Schematic<br>
   
 <p align="center">
-  <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
+  <img src="https://Sourabh-Shende.github.io/Figures/NeuralNetworkSchematicv2.jpg?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
 </p>
 ## Deep energy minimization framework for phase-field plasticity problem
   - Schematic<br>
 
 <p align="center">
-  <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
+  <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscape.jpg?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
 </p>
