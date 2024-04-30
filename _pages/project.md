@@ -12,6 +12,20 @@ author_profile: true
 </p>
 
 
+
+<table class="wide">
+<tr>
+  <td>
+     <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.JPG" alt="chomper setup" title="Setup"/>
+    <label>Chomper problem setup</label>
+  </td>
+  <td>
+    <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.JPG" alt="Objective function evolution" title="Evolution of objective function"/>
+    <label>Evolution of objective function</label>
+  </td>
+</tr>
+</table>
+
 ## Gradient-enhanced Bayesian optimization
 
 ## Anisotropy-enhanced Bayesian optimization
