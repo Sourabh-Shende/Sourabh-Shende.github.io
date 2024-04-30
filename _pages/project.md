@@ -16,11 +16,11 @@ author_profile: true
 <table class="wide">
 <tr>
   <td>
-     <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.JPG" alt="chomper setup" title="Setup"/>
+     <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup"/>
     <label>Chomper problem setup</label>
   </td>
   <td>
-    <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.JPG" alt="Objective function evolution" title="Evolution of objective function"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.jpg" alt="Objective function evolution" title="Evolution of objective function"/>
     <label>Evolution of objective function</label>
   </td>
 </tr>
