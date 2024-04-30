@@ -7,7 +7,8 @@ author_profile: true
 
  
 ## Bayesian optimization for origami-inspired folding structures
-
+  - 1D schematic<br>
+  
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
 </p>
@@ -227,5 +228,14 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
 
 ## Deep energy minimization framework for hyperelastic multistable structures
-
+  - Schematic<br>
+  
+<p align="center">
+  <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
+</p>
 ## Deep energy minimization framework for phase-field plasticity problem
+  - Schematic<br>
+
+<p align="center">
+  <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
+</p>
