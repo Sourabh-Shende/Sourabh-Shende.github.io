@@ -171,7 +171,7 @@ Companion paper: [Bayesian topology optimization for efficient design of origami
 </tr>
 </table>
 
-Companion paper: [Adaptive phase field analysis with dual hierarchical meshes for brittle fracture](https://www.sciencedirect.com/science/article/abs/pii/S0013794419302814)
+Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
 
 ## Anisotropy-enhanced Bayesian optimization
   - 2D schematic<br>
@@ -224,7 +224,7 @@ Companion paper: [Adaptive phase field analysis with dual hierarchical meshes fo
 </tr>
 </table>
 
-Companion paper: [Adaptive phase field analysis with dual hierarchical meshes for brittle fracture](https://www.sciencedirect.com/science/article/abs/pii/S0013794419302814)
+Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
 
 ## Deep energy minimization framework for hyperelastic multistable structures
 
