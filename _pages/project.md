@@ -306,7 +306,7 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
   - Load step independence<br>
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
-   <th align="center" style="width:50%" style="border: none">DEM-SF deformation</th>
+   <th align="center" style="width:50%" style="border: none">Problem setup</th>
    <th align="center" style="width:50%" style="border: none">Minimum potential energy evolution</th>   
   </tr>
 <tr>
