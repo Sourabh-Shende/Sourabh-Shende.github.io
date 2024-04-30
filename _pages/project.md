@@ -35,7 +35,7 @@ author_profile: true
   </tr>
   </table>
   <br>
-  - Twist chomper origami folding structure<br>  
+  - Twist chomper origami folding structure<br>
 <table class="wide">
 <tr>
   <td>
