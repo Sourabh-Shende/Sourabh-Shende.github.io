@@ -284,11 +284,69 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/MinPotenDEMsfgradFEMElem696Prob10ext2.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/><br>
  <label><b>Minimum potential energy evolution comparison.</b></label>
-</p>
+</p><br>
+
   - Multistable structure<br>
+
+<table class="wide:100%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">DEM-SF deformation</th>
+   <th align="center" style="width:50%" style="border: none">Minimum potential energy evolution</th>   
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/DEMSF_prb9xt3.gif" alt="FEM Compression" title="FEM Compression" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/MinPotenDEMtEMProb9ext3Elem1424R_sfgrad_Mat1_lsstudies.jpg" alt="FEM Buckling" title="FEM Buckling" width="300" height="200"/>
+  </td>
+ </tr>
+</table>
+
   - Load step independence<br>
+<table class="wide:100%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">DEM-SF deformation</th>
+   <th align="center" style="width:50%" style="border: none">Minimum potential energy evolution</th>   
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/Prob7Elem250Setup.jpg" alt="Setup" title="Setup" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/MinpotentDEMProb7blsStudies.jpg" alt="Potential energy" title="Potential energy" width="300" height="200"/>
+  </td>
+ </tr>
+</table>
+
   - Transfer learning<br>
-  
+ <table class="wide:100%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">Trained design</th>
+   <th align="center" style="width:50%" style="border: none">New design</th>   
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/Prob10ext2Elem696Setup.jpg" alt="Trained design" title="Trained design" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Prob9ext2Elem712Setup.jpg" alt="New design" title="New design" width="300" height="200"/>
+  </td>
+ </tr>
+  <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">Loss history</th>
+   <th align="center" style="width:50%" style="border: none">Minimum potential energy evolution</th>   
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/LossHistoryWithWithoutTransferLearningprob9ext2.jpg" alt="Loss history" title="Loss history" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/MinPotenDEMsfgradFEMElem712Prob9ext2lsstudiestlprb10ext2.jpg" alt="Minimum potential energy evolution" title="Minimum potential energy evolution" width="300" height="200"/>
+  </td>
+ </tr> 
+</table>
+
 ## Deep energy minimization framework for phase-field plasticity problem
 
   - Schematic<br>
