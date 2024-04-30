@@ -12,9 +12,6 @@ author_profile: true
   </p>
 <label>Schematic of Bayesian optimization in one dimension: The unknown expensive function is represented by a black dashed curve. The Gaussian process (GP) surrogate model (top) is trained with the points (black dots) and is stochastic, with the blue bands indicating the uncertainty levels and the solid blue curve representing the mean of GP. The acquisition function (bottom) scalarizes the surrogate model and is minimized to find the next training point shown with the red triangle. The expensive function is evaluated at the new training point (red circle) and added to the training data. The process is repeated with the surrogate model mimicking the expensive function better with each iteration. The uncertainty in the surrogate model is also reduced as more training points are added.</label>
 
-
-
-
 <table class="wide">
 <tr>
   <td>
@@ -35,6 +32,9 @@ author_profile: true
     <label>Best fold pattern</label>
   </td>
 </tr>
+  
+</table>
+<table class="wide">
 <tr>
   <td>
      <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/><br>
@@ -56,7 +56,6 @@ author_profile: true
   </td>
 </tr>
 </table>
-
 ## Gradient-enhanced Bayesian optimization
 
 ## Anisotropy-enhanced Bayesian optimization
