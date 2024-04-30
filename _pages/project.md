@@ -262,7 +262,29 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 
 
   - Bi-stable unit cell<br>
- 
+<table class="wide:99%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:33%" style="border: none">FEM Compression</th>
+   <th align="center" style="width:33%" style="border: none">FEM Buckling</th>
+   <th align="center" style="width:33%" style="border: none">DEM-SF</th>  
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/FEM_Compression_prb10ext2.gif" alt="FEM Compression" title="FEM Compression" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/FEM_Buckling_prb10ext2.gif" alt="FEM Buckling" title="FEM Buckling" width="300" height="200"/>
+  </td>
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/DEMSF_prb10ext2.gif" alt="DEM-SF" title="DEM-SF" width="300" height="200"/>
+  </td>
+ </tr>
+</table>
+
+<p align="center">
+  <img src="https://Sourabh-Shende.github.io/Figures/MinpotentFEMDEMProb5Elem250ls20inkscape.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/><br>
+ <label><b>Minimum potential energy evolution comparison.</b></label>
+</p>
   - Multistable structure<br>
   - Load step independence<br>
   - Transfer learning<br>
