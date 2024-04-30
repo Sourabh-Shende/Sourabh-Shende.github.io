@@ -26,7 +26,7 @@ author_profile: true
   <td align="center" style="border: none">
     <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/><br>   
   </td>
-    <tr style="border: none">
+   <tr style="border: none">
    <th align="center" style="width:35%" style="border: none">Number of objective function evaluations</th>
    <th align="center" style="width:35%" style="border: none">Best fold pattern</th>
   </tr>
@@ -53,7 +53,7 @@ author_profile: true
   <td align="center" style="border: none">
      <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/>
   </td>
-  <td align="center">
+  <td align="center" style="border: none">
     <img src="https://Sourabh-Shende.github.io/Figures/5_Comparison_of_gradient_bayesian_optimal_obj_funct_38D_ts_5.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/>
   </td>
   <tr style="border: none">
