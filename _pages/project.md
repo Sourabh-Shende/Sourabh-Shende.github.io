@@ -19,6 +19,7 @@ author_profile: true
 <tr>
   <td>
      <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup"width="400" height="200"/>
+    <br>
     <label>Chomper problem setup</label>
   </td>
   <td>
