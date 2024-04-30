@@ -228,12 +228,15 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
 
 ## Deep energy minimization framework for hyperelastic multistable structures
+
   - Schematic<br>
   
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/NeuralNetworkSchematicv2.jpg?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
 </p>
+
 ## Deep energy minimization framework for phase-field plasticity problem
+
   - Schematic<br>
 
 <p align="center">
