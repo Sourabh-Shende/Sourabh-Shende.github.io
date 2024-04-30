@@ -31,7 +31,7 @@ author_profile: true
     <label>Number of objective function evaluations</label>
   </td>
    <td>
-    <img src="https://Sourabh-Shende.github.io/Figures/chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="200"/><br>
+    <img src="https://Sourabh-Shende.github.io/Figures/chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/><br>
     <label>Best fold pattern</label>
   </td>
 </tr>
@@ -51,7 +51,7 @@ author_profile: true
     <label>Number of objective function evaluations</label>
   </td>
    <td>
-    <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="200"/><br>
+    <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/><br>
     <label>Best fold pattern</label>
   </td>
 </tr>
