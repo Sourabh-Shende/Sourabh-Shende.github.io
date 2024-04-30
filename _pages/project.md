@@ -232,7 +232,7 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
   - Schematic<br>
   
 <p align="center">
-  <img src="https://Sourabh-Shende.github.io/Figures/NeuralNetworkSchematicv2.jpg?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
+  <img src="https://Sourabh-Shende.github.io/Figures/NeuralNetworkSchematicv2.jpg?raw=true" width="400" height="300" alt="Schematic" title="Schematic"/>
 </p>
 
   - Buckling of rectangular beam<br>
@@ -246,7 +246,7 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
   - Schematic<br>
 
 <p align="center">
-  <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscape.jpg?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
+  <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscape.jpg?raw=true" width="400" height="300" alt="Schematic" title="Schematic"/>
 </p>
 
   - Extension of square specimen<be>
