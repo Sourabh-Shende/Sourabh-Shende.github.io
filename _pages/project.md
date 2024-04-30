@@ -115,6 +115,25 @@ author_profile: true
 
 ## Anisotropy-enhanced Bayesian optimization
 
+<table class="wide:72%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:24%" style="border: none">Objective function</th>
+   <th align="center" style="width:24%" style="border: none">Isotropic GP</th>
+   <th align="center" style="width:24%" style="border: none">Anisotropy enriched GP</th>  
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/Fig7a.jpg" alt="Objective function" title="Objective function" width="200" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Fig7b.jpg" alt="Isotropic GP" title="Isotropic GP" width="200" height="200"/>
+  </td>
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Fig7c.jpg" alt="Anisotropy enriched GP" title="Anisotropy enriched GP" width="200" height="200"/>
+  </td>
+ </tr>
+</table>
+
 ## Deep energy minimization framework for hyperelastic multistable structures
 
 ## Deep energy minimization framework for phase-field plasticity problem
