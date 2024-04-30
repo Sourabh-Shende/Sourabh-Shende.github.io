@@ -165,7 +165,7 @@ author_profile: true
     <img src="https://Sourabh-Shende.github.io/Figures/Fig19b.jpg" alt="Computational time" title="Computational time" width="300" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/square_twist_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/square_twist_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="250" height="250"/>
   </td>
 </tr>
 </table>
