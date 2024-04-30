@@ -229,14 +229,39 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 
 ## Deep energy minimization framework for hyperelastic multistable structures
 
-  - Schematic<br>
+  - Schematic DEM-SF<br>
   
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/NeuralNetworkSchematicv2.jpg?raw=true" width="450" height="300" alt="Schematic" title="Schematic"/>
 </p>
 
   - Buckling of rectangular beam<br>
+<table class="wide:99%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:33%" style="border: none">FEM Compression</th>
+   <th align="center" style="width:33%" style="border: none">FEM Buckling</th>
+   <th align="center" style="width:33%" style="border: none">DEM-SF</th>  
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/FEM_Compression_prb5.gif" alt="FEM Compression" title="FEM Compression" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/FEM_Buckling_prb5.gif" alt="FEM Buckling" title="FEM Buckling" width="300" height="200"/>
+  </td>
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/DEMSF_prb5.gif" alt="DEM-SF" title="DEM-SF" width="300" height="200"/>
+  </td>
+ </tr>
+</table>
+
+<p align="center">
+  <img src="https://Sourabh-Shende.github.io/Figures/MinpotentFEMDEMProb5Elem250ls20inkscape.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/>
+</p>
+<label>Minimum potential energy evolution comparison.</label><br>
+
   - Bi-stable unit cell<br>
+ 
   - Multistable structure<br>
   - Load step independence<br>
   - Transfer learning<br>
