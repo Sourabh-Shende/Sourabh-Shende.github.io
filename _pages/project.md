@@ -76,6 +76,7 @@ author_profile: true
 
 
 
+
 ## Anisotropy-enhanced Bayesian optimization
 
 ## Deep energy minimization framework for hyperelastic multistable structures
