@@ -18,7 +18,7 @@ author_profile: true
 <table class="wide">
 <tr>
   <td>
-     <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup"/>
+     <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup"width="400" height="200"/>
     <label>Chomper problem setup</label>
   </td>
   <td>
