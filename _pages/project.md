@@ -16,8 +16,8 @@ author_profile: true
   - Chomper origami folding structure <br>    
 <table class="wide:70%" style="border-collapse: collapse;">
 <tr>
-   <th style="width:35%">Problem setup</th>
-   <th style="width:35%">Evolution of objective function</th>
+   <th align="center" style="width:35%">Problem setup</th>
+   <th align="center" style="width:35%">Evolution of objective function</th>
   </tr>
   <tr>
   <td align="center">
@@ -27,8 +27,8 @@ author_profile: true
     <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/><br>   
   </td>
     <tr>
-   <th style="width:35%">Number of objective function evaluations</th>
-   <th style="width:35%">Best fold pattern</th>
+   <th align="center" style="width:35%">Number of objective function evaluations</th>
+   <th align="center" style="width:35%">Best fold pattern</th>
   </tr>
  </tr>
 <tr>
@@ -46,8 +46,8 @@ author_profile: true
   
 <table class="wide:70%" style="border-collapse: collapse;">
  <tr>
-   <th style="width:35%">Problem setup</th>
-   <th style="width:35%">Evolution of objective function</th>
+   <th align="center" style="width:35%">Problem setup</th>
+   <th align="center" style="width:35%">Evolution of objective function</th>
   </tr>
 <tr>
   <td align="center">
@@ -57,8 +57,8 @@ author_profile: true
     <img src="https://Sourabh-Shende.github.io/Figures/5_Comparison_of_gradient_bayesian_optimal_obj_funct_38D_ts_5.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/>
   </td>
   <tr>
-   <th style="width:35%">Number of objective function evaluations</th>
-   <th style="width:35%">Best fold pattern</th>
+   <th align="center" style="width:35%">Number of objective function evaluations</th>
+   <th align="center" style="width:35%">Best fold pattern</th>
   </tr>
    </tr>
 <tr>
