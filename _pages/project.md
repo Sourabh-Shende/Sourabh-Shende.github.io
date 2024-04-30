@@ -71,6 +71,7 @@ author_profile: true
 </tr>
 </table>
 
+Companion paper: [Adaptive phase field analysis with dual hierarchical meshes for brittle fracture](https://www.sciencedirect.com/science/article/abs/pii/S0013794419302814)
 
 ## Gradient-enhanced Bayesian optimization
 
@@ -169,7 +170,9 @@ author_profile: true
   </td>
 </tr>
 </table>
-  
+
+Companion paper: [Adaptive phase field analysis with dual hierarchical meshes for brittle fracture](https://www.sciencedirect.com/science/article/abs/pii/S0013794419302814)
+
 ## Anisotropy-enhanced Bayesian optimization
   - 2D schematic<br>
   
@@ -220,6 +223,8 @@ author_profile: true
   </td>
 </tr>
 </table>
+
+Companion paper: [Adaptive phase field analysis with dual hierarchical meshes for brittle fracture](https://www.sciencedirect.com/science/article/abs/pii/S0013794419302814)
 
 ## Deep energy minimization framework for hyperelastic multistable structures
 
