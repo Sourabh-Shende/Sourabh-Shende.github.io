@@ -71,7 +71,7 @@ author_profile: true
 </tr>
 </table>
 
-Companion paper: [Adaptive phase field analysis with dual hierarchical meshes for brittle fracture](https://www.sciencedirect.com/science/article/abs/pii/S0013794419302814)
+Companion paper: [Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)
 
 ## Gradient-enhanced Bayesian optimization
 
