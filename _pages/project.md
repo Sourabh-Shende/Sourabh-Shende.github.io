@@ -235,6 +235,12 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
   <img src="https://Sourabh-Shende.github.io/Figures/NeuralNetworkSchematicv2.jpg?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
 </p>
 
+  - Buckling of rectangular beam<br>
+  - Bi-stable unit cell<br>
+  - Multistable structure<br>
+  - Load step independence<br>
+  - Transfer learning<br>
+  
 ## Deep energy minimization framework for phase-field plasticity problem
 
   - Schematic<br>
@@ -242,3 +248,5 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscape.jpg?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
 </p>
+
+  - Extension of square specimen<br>
