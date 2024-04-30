@@ -18,9 +18,7 @@ author_profile: true
 <table class="wide">
 <tr>
   <td>
-     <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup"width="400" height="200"/>
-    <br>
-    <label>Chomper problem setup</label>
+     <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup"width="300" height="150"/><br>    <label>Chomper problem setup</label>
   </td>
   <td>
     <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/><br>
@@ -39,7 +37,7 @@ author_profile: true
 </tr>
 <tr>
   <td>
-     <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="400" height="200"/><br>
+     <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/><br>
     <label>Twist chomper problem setup</label>
   </td>
   <td>
