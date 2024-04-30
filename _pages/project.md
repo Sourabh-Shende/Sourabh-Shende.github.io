@@ -249,4 +249,32 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
   <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscape.jpg?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
 </p>
 
-  - Extension of square specimen<br>
+  - Extension of square specimen<be>
+
+<table class="wide:100%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">Problem setup</th>
+   <th align="center" style="width:50%" style="border: none">Displacement u<sub>1</sub></th>
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/Squaredomain.jpg" alt="Setup" title="Setup" width="200" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Square_extension_u1.gif" alt="Displacement u1" title="Displacement u1" width="400" height="200"/>
+  </td>
+  <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">Displacement u<sub>2</sub></th>
+   <th align="center" style="width:50%" style="border: none">Phase field s</th>
+  </tr>
+   </tr>
+<tr style="border: none">
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Square_extension_u2.gif" alt="Displacement u2" title="Displacement u2" width="400" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Square_extension_slip.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
+  </td>
+</tr>
+</table>
+
