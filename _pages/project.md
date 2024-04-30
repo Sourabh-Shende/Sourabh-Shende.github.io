@@ -80,10 +80,10 @@ author_profile: true
   </tr>
 <tr>
   <td align="center" style="border: none">
-     <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="without derivative" title="without derivative"/>
+     <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="without derivative" title="without derivative" width="300" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="with derivative" title="with derivative"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif" alt="with derivative" title="with derivative" width="300" height="200"/>
   </td>
  </tr>
 </table>
