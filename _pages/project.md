@@ -282,7 +282,7 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 </table>
 
 <p align="center">
-  <img src="https://Sourabh-Shende.github.io/Figures/MinpotentFEMDEMProb5Elem250ls20inkscape.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/><br>
+  <img src="https://Sourabh-Shende.github.io/Figures/MinPotenDEMsfgradFEMElem696Prob10ext2.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/><br>
  <label><b>Minimum potential energy evolution comparison.</b></label>
 </p>
   - Multistable structure<br>
