@@ -112,9 +112,67 @@ author_profile: true
  </tr>
 </table>
 
-
+  - Airfoil shape optimization<br>
+  
+<table class="wide:70%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Problem schematic</th>
+   <th align="center" style="width:35%" style="border: none">CFD mesh</th>
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/5_Comparison_of_gradient_bayesian_optimal_obj_funct_38D_ts_5.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/>
+  </td>
+  <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Evolution of objective function</th>
+   <th align="center" style="width:35%" style="border: none">Computational time</th>
+  </tr>
+   </tr>
+<tr style="border: none">
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/FE_solution_comparison_38D.jpg" alt="Objective function evaluations" title="Number of objective function evaluations" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>
+  </td>
+</tr>
+</table>
+  
+  - Square twist origami folding structure<br>
+  
+<table class="wide:70%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Problem setup</th>
+   <th align="center" style="width:35%" style="border: none">Evolution of objective function</th>
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/5_Comparison_of_gradient_bayesian_optimal_obj_funct_38D_ts_5.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/>
+  </td>
+  <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Computational time</th>
+   <th align="center" style="width:35%" style="border: none">Best fold pattern</th>
+  </tr>
+   </tr>
+<tr style="border: none">
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/FE_solution_comparison_38D.jpg" alt="Objective function evaluations" title="Number of objective function evaluations" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>
+  </td>
+</tr>
+</table>
+  
 ## Anisotropy-enhanced Bayesian optimization
-
+  - 2D schematic<br>
+  
 <table class="wide:72%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:24%" style="border: none">Objective function</th>
@@ -132,6 +190,35 @@ author_profile: true
     <img src="https://Sourabh-Shende.github.io/Figures/Fig7c.jpg" alt="Anisotropy enriched GP" title="Anisotropy enriched GP" width="200" height="200"/>
   </td>
  </tr>
+</table>
+
+  - Twist chomper origami folding structure<br>
+  
+<table class="wide:70%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Problem setup</th>
+   <th align="center" style="width:35%" style="border: none">Evolution of objective function</th>
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/5_Comparison_of_gradient_bayesian_optimal_obj_funct_38D_ts_5.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/>
+  </td>
+  <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Computational time</th>
+   <th align="center" style="width:35%" style="border: none">Best fold pattern</th>
+  </tr>
+   </tr>
+<tr style="border: none">
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/FE_solution_comparison_38D.jpg" alt="Objective function evaluations" title="Number of objective function evaluations" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>
+  </td>
+</tr>
 </table>
 
 ## Deep energy minimization framework for hyperelastic multistable structures
