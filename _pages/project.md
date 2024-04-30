@@ -20,10 +20,10 @@ author_profile: true
    <th style="width:35%">Evolution of objective function</th>
   </tr>
   <tr>
-  <td>
+  <td align="center">
       <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/>  
   </td>
-  <td>
+  <td align="center">
     <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/><br>   
   </td>
     <tr>
@@ -32,10 +32,10 @@ author_profile: true
   </tr>
  </tr>
 <tr>
-  <td>
+  <td align="center">
     <img src="https://Sourabh-Shende.github.io/Figures/FE_solution_comparison_18D.jpg" alt="Objective function evaluations" title="Number of objective function evaluations" width="300" height="200"/>
   </td>
-   <td>
+   <td align="center">
     <img src="https://Sourabh-Shende.github.io/Figures/chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>   
   </td>
   </tr>
