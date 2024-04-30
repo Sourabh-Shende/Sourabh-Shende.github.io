@@ -12,12 +12,11 @@ author_profile: true
   </p>
 <label>Schematic of Bayesian optimization in one dimension: The unknown expensive function is represented by a black dashed curve. The Gaussian process (GP) surrogate model (top) is trained with the points (black dots) and is stochastic, with the blue bands indicating the uncertainty levels and the solid blue curve representing the mean of GP. The acquisition function (bottom) scalarizes the surrogate model and is minimized to find the next training point shown with the red triangle. The expensive function is evaluated at the new training point (red circle) and added to the training data. The process is repeated with the surrogate model mimicking the expensive function better with each iteration. The uncertainty in the surrogate model is also reduced as more training points are added.</label><br>
 
-  - Chomper origami folding structure <-br>
-    
+  - Chomper origami folding structure <br>    
 <table class="wide">
 <tr>
   <td>
-     <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup"width="300" height="150"/><br>    <label>Chomper problem setup</label>
+     <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup"width="300" height="150"/><br>    <label>Problem setup</label>
   </td>
   <td>
     <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/><br>
@@ -37,12 +36,11 @@ author_profile: true
   </table>
   <br>
   - Twist chomper origami folding structure<br>  
-
 <table class="wide">
 <tr>
   <td>
      <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/><br>
-    <label>Twist chomper problem setup</label>
+    <label>Problem setup</label>
   </td>
   <td>
     <img src="https://Sourabh-Shende.github.io/Figures/5_Comparison_of_gradient_bayesian_optimal_obj_funct_38D_ts_5.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/><br>
