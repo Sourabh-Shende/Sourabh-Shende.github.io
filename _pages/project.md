@@ -239,7 +239,7 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 <table class="wide:99%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:33%" style="border: none">FEM Compression</th>
-   <th align="center" style="width:33%" style="border: none">FEM Buckling</th>
+   <th align="center" style="width:33%" style="border: none">FEM Buckling (Needs Eignevalue solution)</th>
    <th align="center" style="width:33%" style="border: none">DEM-SF</th>  
   </tr>
 <tr>
@@ -265,7 +265,7 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 <table class="wide:99%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:33%" style="border: none">FEM Compression</th>
-   <th align="center" style="width:33%" style="border: none">FEM Buckling</th>
+   <th align="center" style="width:33%" style="border: none">FEM Buckling (Needs Eignevalue solution)</th>
    <th align="center" style="width:33%" style="border: none">DEM-SF</th>  
   </tr>
 <tr>
