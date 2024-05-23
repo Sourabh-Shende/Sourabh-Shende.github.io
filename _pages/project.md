@@ -12,13 +12,21 @@ author_profile: true
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
 </p>
-<ul style="list-style-type:square;">
+<ol>
+ <li>Upper panel</li>
+ <ul style="list-style-type:square;">
   <li><b>Goal :</b> To optimize expensive function (black dashed curve) in the upper panel</li>
   <li><b>Surrogate :</b> Gaussian process (GP) surrogate model is trained with the points (black dots) and is stochastic, with the uncertainty levels (blue bands) and the mean of GP (solid blue curve) in the upper panel.</li>
-  <li><b>Scalarization :</b> Acquisition function (green solid curve) in the lower panel scalarizes the surrogate model to give single-valued function</li>
+</ul>  
+ <li>Lower panel</li>
+ <ul style="list-style-type:square;">
+ <li><b>Scalarization :</b> Acquisition function (green solid curve) in the lower panel scalarizes the surrogate model to give single-valued function</li>
  <li><b>Optimization :</b> Acquisition function (green solid curve) is minimized to find the next training point shown with the red triangle.</li>
  <li><b>Iteration :</b> The expensive function is evaluated at the new training point (red circle) and added to the training data. The process is repeated with the surrogate model mimicking the expensive function better with each iteration. The uncertainty in the surrogate model is also reduced as more training points are added.</li>
 </ul><br>
+</ol>
+
+  
 
   - Chomper origami folding structure <br>    
 <table class="wide:70%" style="border: none">
