@@ -12,7 +12,7 @@ author_profile: true
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
 </p>
-<ul>
+<ul style="list-style-type:square;">
   <li><b>Goal :</b> To optimize expensive function (black dashed curve) in the upper panel</li>
   <li><b>Surrogate :</b> Gaussian process (GP) surrogate model is trained with the points (black dots) and is stochastic, with the uncertainty levels (blue bands) and the mean of GP (solid blue curve) in the upper panel.</li>
   <li><b>Scalarization :</b> Acquisition function (green solid curve) in the lower panel scalarizes the surrogate model to give single-valued function</li>
