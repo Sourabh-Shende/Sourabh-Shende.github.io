@@ -5,9 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
-<details>
-<summary><h2>Bayesian optimization (BO) for origami-inspired folding structures</h2></summary>
+<!-- <details> 
+<summary></summary>
+</details>
+-->
 
+<h2>Bayesian optimization (BO) for origami-inspired folding structures</h2>
 - 1D schematic<br>
   
 <p align="center">
@@ -95,8 +98,6 @@ author_profile: true
 </ul><br>
 
 <b>Companion paper: </b>[Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)<br>
-
-</details>
 
 
 ## Gradient-enhanced Bayesian optimization
