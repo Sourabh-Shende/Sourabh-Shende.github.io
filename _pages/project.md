@@ -93,7 +93,7 @@ author_profile: true
 </ul><br>
 
 
-Companion paper: [Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)
+<b>Companion paper: </b>[Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)
 
 
 
@@ -195,7 +195,7 @@ Companion paper: [Bayesian topology optimization for efficient design of origami
 </tr>
 </table>
 
-Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
+<b>Companion paper: </b>[Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
 
 ## Anisotropy-enhanced Bayesian optimization
   - 2D schematic<br>
@@ -248,7 +248,7 @@ Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced 
 </tr>
 </table>
 
-Companion paper: [Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
+<b>Companion paper: </b>[Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
 
 ## Deep energy minimization framework for hyperelastic multistable structures
 
