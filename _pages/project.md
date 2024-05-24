@@ -7,7 +7,7 @@ author_profile: true
 
 <details>
 
-<summary> <h3> Bayesian optimization (BO) for origami-inspired folding structures </h3> </summary>
+<summary> <h2> Bayesian optimization (BO) for origami-inspired folding structures </h2> </summary>
 
 - 1D schematic<br>
   
