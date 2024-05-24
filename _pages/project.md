@@ -5,6 +5,100 @@ permalink: /projects/
 author_profile: true
 ---
 
+<details>
+
+<summary>## Bayesian optimization (BO) for origami-inspired folding structures</summary>
+
+- 1D schematic<br>
+  
+<p align="center">
+  <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
+</p>
+<ol>
+ <li>Upper panel</li>
+ <ul style="list-style-type:square;">
+  <li><b>Goal :</b> To optimize expensive function (black dashed curve) in the upper panel</li>
+  <li><b>Surrogate :</b> Gaussian process (GP) surrogate model is trained with the points (black dots) and is stochastic, with the uncertainty levels (blue bands) and the mean of GP (solid blue curve) in the upper panel.</li>
+</ul>  
+ <li>Lower panel</li>
+ <ul style="list-style-type:square;">
+ <li><b>Scalarization :</b> Acquisition function (green solid curve) in the lower panel scalarizes the surrogate model to give single-valued function</li>
+ <li><b>Optimization :</b> Acquisition function (green solid curve) is minimized to find the next training point shown with the red triangle.</li>
+ <li><b>Iteration :</b> The expensive function is evaluated at the new training point (red circle) and added to the training data. The process is repeated with the surrogate model mimicking the expensive function better with each iteration. The uncertainty in the surrogate model is also reduced as more training points are added.</li>
+</ul><br>
+</ol>  
+
+  - Chomper origami folding structure <br>    
+<table class="wide:70%" style="border: none">
+<tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Problem setup</th>
+   <th align="center" style="width:35%" style="border: none">Evolution of objective function</th>
+  </tr>
+  <tr style="border: none">
+  <td align="center" style="border: none">
+      <img src="https://Sourabh-Shende.github.io/Figures/chomper_problem_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/>  
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/4_Comparison_of_gradient_bayesian_optimal_obj_funct_18D_ts_1.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/><br>   
+  </td>
+   <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Number of objective function evaluations</th>
+   <th align="center" style="width:35%" style="border: none">Best fold pattern</th>
+  </tr>
+ </tr>
+<tr style="border: none">
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/FE_solution_comparison_18D.jpg" alt="Objective function evaluations" title="Number of objective function evaluations" width="300" height="200"/>
+  </td>
+   <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>   
+  </td>
+  </tr>
+  </table>
+  <br>
+  
+  <ul style="list-style-type:square;">
+  <li> Traditional gradient-based optimization technique gets trapped in local minima.</li>
+  <li> Bayesian (BO) finds optimal design and takes ~34 x fewer FE solution than genetic algorithm (GA)</li>  
+</ul><br>
+
+  - Twist chomper origami folding structure<br>
+  
+<table class="wide:70%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Problem setup</th>
+   <th align="center" style="width:35%" style="border: none">Evolution of objective function</th>
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_setup.jpg" alt="chomper setup" title="Setup" width="300" height="150"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/5_Comparison_of_gradient_bayesian_optimal_obj_funct_38D_ts_5.jpg" alt="Objective function evolution" title="Evolution of objective function" width="300" height="200"/>
+  </td>
+  <tr style="border: none">
+   <th align="center" style="width:35%" style="border: none">Number of objective function evaluations</th>
+   <th align="center" style="width:35%" style="border: none">Best fold pattern</th>
+  </tr>
+   </tr>
+<tr style="border: none">
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/FE_solution_comparison_38D.jpg" alt="Objective function evaluations" title="Number of objective function evaluations" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/twist_chomper_opt_design.gif" alt="Best fold pattern" title="Best fold pattern" width="300" height="150"/>
+  </td>
+</tr>
+</table>
+<ul style="list-style-type:square;">
+  <li> Traditional gradient-based optimization technique gets trapped in local minima.</li>
+  <li> Bayesian (BO) finds optimal design and takes ~56 x fewer FE solution than genetic algorithm (GA)</li>  
+</ul><br>
+
+
+<b>Companion paper: </b>[Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)
+
+</details>
 ## Bayesian optimization (BO) for origami-inspired folding structures
   - 1D schematic<br>
   
