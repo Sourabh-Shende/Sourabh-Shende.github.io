@@ -4,8 +4,7 @@ title: "Research"
 permalink: /projects/
 author_profile: true
 ---
-
- 
+<div style="background-color: #add8e6; padding: 20px; border-radius: 5px;">
 ## Bayesian optimization (BO) for origami-inspired folding structures
   - 1D schematic<br>
   
@@ -59,7 +58,7 @@ author_profile: true
   
   <ul style="list-style-type:square;">
   <li> Traditional gradient-based optimization technique gets trapped in local minima.</li>
-  <li> Bayesian (BO) finds optimal design and takes ~30 x fewer FE solution than genetic algorithm (GA)</li>  
+  <li> Bayesian (BO) finds optimal design and takes ~34 x fewer FE solution than genetic algorithm (GA)</li>  
 </ul><br>
 
   - Twist chomper origami folding structure<br>
@@ -90,9 +89,13 @@ author_profile: true
   </td>
 </tr>
 </table>
+<ul style="list-style-type:square;">
+  <li> Traditional gradient-based optimization technique gets trapped in local minima.</li>
+  <li> Bayesian (BO) finds optimal design and takes ~56 x fewer FE solution than genetic algorithm (GA)</li>  
+</ul><be>
 
 Companion paper: [Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)
-
+</div>
 ## Gradient-enhanced Bayesian optimization
 
   - 1D schematic<br>
