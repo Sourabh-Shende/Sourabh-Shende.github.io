@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 <details>
-
-<summary> <h2> Bayesian optimization (BO) for origami-inspired folding structures </h2> </summary>
+<summary><h2>Bayesian optimization (BO) for origami-inspired folding structures</h2></summary>
 
 - 1D schematic<br>
   
@@ -95,8 +94,7 @@ author_profile: true
   <li> Bayesian (BO) finds optimal design and takes ~56 x fewer FE solution than genetic algorithm (GA)</li>  
 </ul><br>
 
-
-<b>Companion paper: </b>[Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)
+<b>Companion paper: </b>[Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)<br>
 
 </details>
 
