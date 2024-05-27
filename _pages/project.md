@@ -29,7 +29,7 @@ author_profile: true
  <li><b>Iteration :</b> The expensive function is evaluated at the new training point (red circle) and added to the training data. The process is repeated with the surrogate model mimicking the expensive function better with each iteration. The uncertainty in the surrogate model is also reduced as more training points are added.</li>
 </ul><br>
 </ol>  
-
+---
   - Chomper origami folding structure <br>    
 <table class="wide:70%" style="border: none">
 <tr style="border: none">
