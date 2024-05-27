@@ -29,7 +29,7 @@ author_profile: true
  <li><b>Iteration :</b> The expensive function is evaluated at the new training point (red circle) and added to the training data. The process is repeated with the surrogate model mimicking the expensive function better with each iteration. The uncertainty in the surrogate model is also reduced as more training points are added.</li>
 </ul><br>
 </ol>  
-<hr width="50%" />
+<hr width="80%" />
   - Chomper origami folding structure <br>    
 <table class="wide:70%" style="border: none">
 <tr style="border: none">
@@ -63,7 +63,7 @@ author_profile: true
   <li> Traditional gradient-based optimization technique gets trapped in local minima.</li>
   <li> Bayesian (BO) finds optimal design and takes ~34 x fewer FE solution than genetic algorithm (GA)</li>  
 </ul><br>
-
+<hr width="80%" />
   - Twist chomper origami folding structure<br>
   
 <table class="wide:70%" style="border: none">
@@ -96,10 +96,10 @@ author_profile: true
   <li> Traditional gradient-based optimization technique gets trapped in local minima.</li>
   <li> Bayesian (BO) finds optimal design and takes ~56 x fewer FE solution than genetic algorithm (GA)</li>  
 </ul><br>
-
+<hr width="80%" />
 <b>Companion paper: </b>[Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)<br>
 
-
+<hr width="80%" />
 ## Gradient-enhanced Bayesian optimization
 
   - 1D schematic<br>
