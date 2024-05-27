@@ -118,7 +118,7 @@ author_profile: true
   </td>
  </tr>
 </table>
-
+<hr width="80%" />
   - 2D schematic<br>
 
  <table class="wide:72%" style="border: none">
@@ -139,7 +139,7 @@ author_profile: true
   </td>
  </tr>
 </table>
-
+<hr width="80%" />
   - Airfoil shape optimization<br>
   
 <table class="wide:70%" style="border: none">
@@ -168,7 +168,7 @@ author_profile: true
   </td>
 </tr>
 </table>
-  
+<hr width="80%" />  
   - Square twist origami folding structure<br>
   
 <table class="wide:70%" style="border: none">
@@ -197,9 +197,11 @@ author_profile: true
   </td>
 </tr>
 </table>
+<hr width="80%" />
 
 <b>Companion paper: </b>[Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
 
+<hr width="80%" />
 ## Anisotropy-enhanced Bayesian optimization
   - 2D schematic<br>
   
@@ -221,7 +223,7 @@ author_profile: true
   </td>
  </tr>
 </table>
-
+<hr width="80%" />
   - Twist chomper origami folding structure<br>
   
 <table class="wide:70%" style="border: none">
@@ -250,8 +252,10 @@ author_profile: true
   </td>
 </tr>
 </table>
+<hr width="80%" />
 
 <b>Companion paper: </b>[Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
+<hr width="80%" />
 
 ## Deep energy minimization framework for hyperelastic multistable structures
 
@@ -260,7 +264,7 @@ author_profile: true
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/NeuralNetworkSchematicv2.jpg?raw=true" width="450" height="300" alt="Schematic" title="Schematic"/>
 </p>
-
+<hr width="80%" />
   - Buckling of rectangular beam<br>
 <table class="wide:99%" style="border: none">
  <tr style="border: none">
@@ -286,7 +290,7 @@ author_profile: true
  <label><b>Minimum potential energy evolution comparison.</b></label>
 </p>
 
-
+<hr width="80%" />
   - Bi-stable unit cell<br>
 <table class="wide:99%" style="border: none">
  <tr style="border: none">
@@ -311,7 +315,7 @@ author_profile: true
   <img src="https://Sourabh-Shende.github.io/Figures/MinPotenDEMsfgradFEMElem696Prob10ext2.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/><br>
  <label><b>Minimum potential energy evolution comparison.</b></label>
 </p><br>
-
+<hr width="80%" />
   - Multistable structure<br>
 
 <table class="wide:100%" style="border: none">
@@ -328,7 +332,7 @@ author_profile: true
   </td>
  </tr>
 </table>
-
+<hr width="80%" />
   - Load step independence<br>
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
@@ -344,7 +348,7 @@ author_profile: true
   </td>
  </tr>
 </table>
-
+<hr width="80%" />
   - Transfer learning<br>
  <table class="wide:100%" style="border: none">
  <tr style="border: none">
@@ -372,7 +376,7 @@ author_profile: true
   </td>
  </tr> 
 </table>
-
+<hr width="80%" />
 ## Deep energy minimization framework for phase-field plasticity problem
 
   - Schematic<br>
@@ -380,7 +384,7 @@ author_profile: true
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscape.jpg?raw=true" width="450" height="300" alt="Schematic" title="Schematic"/>
 </p>
-
+<hr width="80%" />
   - Extension of square specimen<be>
 
 <table class="wide:100%" style="border: none">
@@ -409,4 +413,4 @@ author_profile: true
   </td>
 </tr>
 </table>
-
+<hr width="80%" />
