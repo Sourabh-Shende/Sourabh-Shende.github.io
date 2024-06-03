@@ -102,7 +102,7 @@ author_profile: true
 <b>Companion paper: </b>[Bayesian topology optimization for efficient design of origami folding structures](https://www.sciencedirect.com/science/article/pii/S0045782522001992)<br>
 
 <hr width="80%" size="10px" />
-## Gradient-enhanced Bayesian optimization
+## Gradient-enhanced Bayesian optimization (GEBO)
 
   - 1D schematic<br>
   
@@ -141,8 +141,8 @@ author_profile: true
 </table>
  <ul style="list-style-type:square;">
   <li> Gradient enriched GP matches the objective functions gradients along with function values at the training points</li>
-  <li> Gradient enhanced Bayesian optimization has better efficiency than Bayesian optimization</li>     
-</ul><br> 
+  <li> Gradient enhanced Bayesian optimization (GEBO) has better efficiency than Bayesian optimization</li>
+  </ul><br> 
 <hr width="80%" />
   - Airfoil shape optimization<br>
   
@@ -172,7 +172,12 @@ author_profile: true
   </td>
 </tr>
 </table>
+ <ul style="list-style-type:square;">
+  <li> <b>Objective:</b> To find the optimal airfoil shape to minimize drag.</li>
+  <li> GEBO with gradient clipping gives ~3 x speedup than traditional BO.</li>
+  </ul><br> 
 <hr width="80%" />  
+
   - Square twist origami folding structure<br>
   
 <table class="wide:70%" style="border: none">
@@ -201,6 +206,10 @@ author_profile: true
   </td>
 </tr>
 </table>
+<ul style="list-style-type:square;">
+  <li> <b>Objective:</b> To find the optimal fold pattern to maximize actuation.</li>
+  <li> GEBO with gradient clipping gives ~3.5 x speedup than traditional BO.</li>
+  </ul><br> 
 <hr width="80%" />
 
 <b>Companion paper: </b>[Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
