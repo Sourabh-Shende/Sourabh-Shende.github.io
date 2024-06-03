@@ -271,15 +271,15 @@ author_profile: true
 </table>
 <ul style="list-style-type:square;">
   <li> <b>Objective:</b> To find the optimal fold pattern to maximize actuation.</li>
-  <li> Anisotropy enhanced Bayesian optimization with automatic relevance determination (ARD) reduces the dimension from 38 to 16.</li>
-  <li> Anisotropy enhanced Bayesian optimization with automatic relevance determination (ARD) gives ~2 x speedup than traditional BO.</li>
+  <li> Anisotropy-enhanced BO with (ARD) reduces the dimension from 38 to 16.</li>
+  <li> Anisotropy enhanced BO with (ARD) gives ~2 x speedup than traditional BO.</li>
   </ul><br>
 <hr width="80%" />
 
 <b>Companion paper: </b>[Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
 <hr width="80%" />
 
-## Deep energy minimization framework for hyperelastic multistable structures
+## Deep energy minimization (DEM) framework for hyperelastic multistable structures
 
   - Schematic DEM-SF<br>
   
@@ -287,6 +287,12 @@ author_profile: true
   <img src="https://Sourabh-Shende.github.io/Figures/NeuralNetworkSchematicv2.jpg?raw=true" width="450" height="300" alt="Schematic" title="Schematic"/>
 </p>
 <hr width="80%" />
+<ul style="list-style-type:square;">
+  <li> <b>Surrogate: </b>A Fully connected feed-forward neural network approximates the displacement field.</li>
+  <li> <b>Loss: </b> Potential energy of the system is minimized as loss (DEM). </li>
+  <li> <b>Gradients: </b> Finite element shape functions are used to calculate the gradients of displacement (DEM-SF).</li>
+  </ul><br>
+  
   - Buckling of rectangular beam<br>
 <table class="wide:99%" style="border: none">
  <tr style="border: none">
@@ -311,7 +317,12 @@ author_profile: true
   <img src="https://Sourabh-Shende.github.io/Figures/MinpotentFEMDEMProb5Elem250ls20inkscape.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/><br>
  <label><b>Minimum potential energy evolution comparison.</b></label>
 </p>
-
+<ul style="list-style-type:square;">
+  <li> FEM gives compression deformation mode without eigenvalue solution. </li>
+  <li> FEM requires an eigenvalue solution for perturbation to give buckling deformation mode.</li>
+  <li> The deep energy minimization framework when FE shape function (DEM-SF) is utilized to calculate the gradients gives buckling deformation mode.</li>
+  <li> The deep energy minimization framework when automatic differentiation (DEM-AD) is utilized to calculate the gradients gives a non-physical solution.</li>
+  </ul><br>
 <hr width="80%" />
   - Bi-stable unit cell<br>
 <table class="wide:99%" style="border: none">
