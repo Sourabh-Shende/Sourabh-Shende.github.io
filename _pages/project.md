@@ -120,6 +120,7 @@ author_profile: true
   </td>
  </tr>
 </table>
+
 <hr width="80%" />
   - 2D schematic<br>
 
@@ -130,6 +131,11 @@ author_profile: true
    <th align="center" style="width:24%" style="border: none">Gradient enriched GP</th>  
   </tr>
 <tr>
+ <ul style="list-style-type:square;">
+  <li> Gradient enriched GP matches the objective functions gradients along with function values at the training points</li>
+  <li> Gradient enhanced Bayesian optimization has better efficiency than Bayesian opitimization  </li>     
+</ul><br> 
+  
   <td align="center" style="border: none">
      <img src="https://Sourabh-Shende.github.io/Figures/Fig2a.jpg" alt="Objective function" title="Objective function" width="200" height="200"/>
   </td>
