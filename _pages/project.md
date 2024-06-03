@@ -140,8 +140,8 @@ author_profile: true
  </tr>
 </table>
  <ul style="list-style-type:square;">
-  <li> Gradient enriched GP matches the objective functions gradients along with function values at the training points</li>
-  <li> Gradient enhanced Bayesian optimization (GEBO) has better efficiency than Bayesian optimization</li>
+  <li> Gradient enriched GP matches the objective functions gradients and function values at the training points.</li>
+  <li> Gradient enriched GP gives a better fit than traditional GP.</li>
   </ul><br> 
 <hr width="80%" />
   - Airfoil shape optimization<br>
@@ -236,6 +236,10 @@ author_profile: true
   </td>
  </tr>
 </table>
+<ul style="list-style-type:square;">
+  <li> Anisotropy-enhanced GP gives a better fit than traditional GP for functions with dominant design variables.</li>
+  <li> Anisotropy-enhanced GP can be used as dimension reduction technique using automatic relevance determination (ARD).</li>
+  </ul><br> 
 <hr width="80%" />
   - Twist chomper origami folding structure<br>
   
@@ -265,6 +269,11 @@ author_profile: true
   </td>
 </tr>
 </table>
+<ul style="list-style-type:square;">
+  <li> <b>Objective:</b> To find the optimal fold pattern to maximize actuation.</li>
+  <li> Anisotropy enhanced Bayesian optimization with automatic relevance determination (ARD) reduces the dimension from 38 to 16.</li>
+  <li> Anisotropy enhanced Bayesian optimization with automatic relevance determination (ARD) gives ~2 x speedup than traditional BO.</li>
+  </ul><br>
 <hr width="80%" />
 
 <b>Companion paper: </b>[Systematic cost analysis of gradient- and anisotropy-enhanced Bayesian design optimization](https://link.springer.com/article/10.1007/s00158-022-03324-8)
