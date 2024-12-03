@@ -288,7 +288,7 @@ author_profile: true
 </p>
 <hr width="80%" />
 <ul style="list-style-type:square;">
-  <li> <b>Surrogate: </b>A Fully connected feed-forward neural network approximates the displacement field.</li>
+  <li> <b>Solver: </b>A Fully connected feed-forward neural network approximates the displacement field.</li>
   <li> <b>Loss: </b> Potential energy of the system is minimized as loss (DEM). </li>
   <li> <b>Gradients: </b> Finite element shape functions are used to calculate the gradients of displacement (DEM-SF).</li>
   </ul><br>
