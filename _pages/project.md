@@ -445,7 +445,7 @@ author_profile: true
      <img src="https://Sourabh-Shende.github.io/Figures/Squaredomain.jpg" alt="Setup" title="Setup" width="200" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/SquareExtensionPhaseField.gif" alt="Displacement u1" title="Displacement u1" width="400" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/SquareExtensionPhaseField.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
   </td>
   <tr style="border: none">
    <th align="center" style="width:50%" style="border: none">Min. potential energy</th>
@@ -454,10 +454,10 @@ author_profile: true
    </tr>
 <tr style="border: none">
  <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Square_extension_u2.gif" alt="Displacement u2" title="Displacement u2" width="400" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_Pi_Loss.png" alt="potential energy" title="potential energy" width="400" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Square_extension_slip.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_mid_RF2_Loss.png" alt="Reaction force" title="Reaction force" width="400" height="200"/>
   </td>
 </tr>
 </table>
