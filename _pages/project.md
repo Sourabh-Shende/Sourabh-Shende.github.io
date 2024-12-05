@@ -422,7 +422,7 @@ author_profile: true
  </tr> 
 </table>
 <ul style="list-style-type:square;">
-  <li> Transfer learning can be leveraged for new designs to speed up the solution time by at least **5x**.</li>
+  <li> Transfer learning can be leveraged for new designs to speed up the solution time by at least <b>5x</b>.</li>
   </ul><br>
 <hr width="80%" />
 ## Deep energy minimization framework for phase-field elastic-perfectly plasticity problems
