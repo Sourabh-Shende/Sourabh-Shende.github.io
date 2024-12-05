@@ -454,10 +454,10 @@ author_profile: true
    </tr>
 <tr style="border: none">
  <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_Pi_Loss.jpg" alt="potential energy" title="potential energy" width="400" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_Pi_Loss.jpg" alt="potential energy" title="potential energy" width="300" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_mid_RF2_Loss.jpg" alt="Reaction force" title="Reaction force" width="400" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_mid_RF2_Loss.jpg" alt="Reaction force" title="Reaction force" width="300" height="200"/>
   </td>
 </tr>
 </table>
