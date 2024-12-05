@@ -438,18 +438,18 @@ author_profile: true
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:50%" style="border: none">Problem setup</th>
-   <th align="center" style="width:50%" style="border: none">Displacement u<sub>1</sub></th>
+   <th align="center" style="width:50%" style="border: none">Phase field s</th>
   </tr>
 <tr>
   <td align="center" style="border: none">
      <img src="https://Sourabh-Shende.github.io/Figures/Squaredomain.jpg" alt="Setup" title="Setup" width="200" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Square_extension_u1.gif" alt="Displacement u1" title="Displacement u1" width="400" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/SquareExtensionPhaseField.gif" alt="Displacement u1" title="Displacement u1" width="400" height="200"/>
   </td>
   <tr style="border: none">
-   <th align="center" style="width:50%" style="border: none">Displacement u<sub>2</sub></th>
-   <th align="center" style="width:50%" style="border: none">Phase field s</th>
+   <th align="center" style="width:50%" style="border: none">Min. potential energy</th>
+   <th align="center" style="width:50%" style="border: none">Reaction force</th>
   </tr>
    </tr>
 <tr style="border: none">
