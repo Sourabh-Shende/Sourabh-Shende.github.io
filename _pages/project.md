@@ -415,7 +415,7 @@ author_profile: true
   - Schematic<br>
 
 <p align="center">
-  <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscape.jpg?raw=true" width="450" height="300" alt="Schematic" title="Schematic"/>
+  <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscapeDEMAD.png?raw=true" width="450" height="300" alt="Schematic" title="Schematic"/>
 </p>
 <hr width="80%" />
   - Extension of square specimen<be>
