@@ -348,6 +348,11 @@ author_profile: true
   <img src="https://Sourabh-Shende.github.io/Figures/MinPotenDEMsfgradFEMElem696Prob10ext2.jpg?raw=true" width="450" height="300" alt="Potential energy" title="Potential energy"/><br>
  <label><b>Minimum potential energy evolution comparison.</b></label>
 </p><br>
+<ul style="list-style-type:square;">
+  <li> FEM needs an eigenvalue solution to predict the low potential buckling path.</li>
+  <li> DEM-SF finds the low potential buckling path without an eigenvalue solution.</li>  
+  <li> DEM-SF accurately predicts the second stable state.</li>
+  </ul><br>
 <hr width="80%" />
   - Multistable structure<br>
 
@@ -365,6 +370,9 @@ author_profile: true
   </td>
  </tr>
 </table>
+<ul style="list-style-type:square;">
+  <li> DEM-SF can accurately predict multiple stable states.</li>
+  </ul><br>
 <hr width="80%" />
   - Load step independence<br>
 <table class="wide:100%" style="border: none">
@@ -381,6 +389,10 @@ author_profile: true
   </td>
  </tr>
 </table>
+<ul style="list-style-type:square;">
+  <li> DEM-SF finds accurate solutions with larger load steps.</li>
+  <li> FEM with larger load steps runs into convergence issues.</li>
+  </ul><br>
 <hr width="80%" />
   - Transfer learning<br>
  <table class="wide:100%" style="border: none">
@@ -409,6 +421,9 @@ author_profile: true
   </td>
  </tr> 
 </table>
+<ul style="list-style-type:square;">
+  <li> Transfer learning can be leveraged for new designs to speed up the solution time by at least **5x**.</li>
+  </ul><br>
 <hr width="80%" />
 ## Deep energy minimization framework for phase-field elastic-perfectly plasticity problems
 
