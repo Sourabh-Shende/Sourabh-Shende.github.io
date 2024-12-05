@@ -410,7 +410,7 @@ author_profile: true
  </tr> 
 </table>
 <hr width="80%" />
-## Deep energy minimization framework for phase-field plasticity problem
+## Deep energy minimization framework for phase-field elastic-perfectly plasticity problems
 
   - Schematic<br>
 
