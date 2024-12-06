@@ -508,4 +508,26 @@ author_profile: true
   </td>
 </tr>
 </table>
+<table class="wide:100%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:25%" style="border: none">BO loss</th>
+   <th align="center" style="width:25%" style="border: none">$\gamma$ (True value $= 0.3$)</th>
+   <th align="center" style="width:25%" style="border: none">$\sigma_0$ (True value $= 70$) </th>
+   <th align="center" style="width:25%" style="border: none">$\epsilon$ (True value $= 4e-2$) </th>
+  </tr>  
+<tr style="border: none">
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/BO_129_BO_loss_curve_analysis.jpg" alt="BO loss" title="BO loss" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/BO_129_gamma_curve_analysis.jpg" alt="gamma" title="gamma" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/BO_129_sigma0_curve_analysis.jpg" alt="sigma0" title="sigma0" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/BO_129_epsilon_curve_analysis.jpg" alt="epsilon" title="epsilon" width="300" height="200"/>
+  </td>
+</tr>
+</table>
 <hr width="80%" />
