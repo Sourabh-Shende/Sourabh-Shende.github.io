@@ -485,4 +485,26 @@ author_profile: true
   <li> The neural network is initially trained on the DIC displacement data to get a good starting point for the weights</li>
   <li> DEM-AD equipped with transfer learning is utilized to solve the necessary forward problems.</li>    
 </ul><br>
+<table class="wide:100%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:25%" style="border: none">BO loss</th>
+   <th align="center" style="width:25%" style="border: none">$\gamma$ </th>
+   <th align="center" style="width:25%" style="border: none">$\sigma_0$ </th>
+   <th align="center" style="width:25%" style="border: none">$\epsilon$ </th>
+  </tr>  
+<tr style="border: none">
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_Pi_Loss.jpg" alt="BO loss" title="BO loss" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_mid_RF2_Loss.jpg" alt="gamma" title="gamma" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_mid_RF2_Loss.jpg" alt="sigma0" title="sigma0" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_mid_RF2_Loss.jpg" alt="epsilon" title="epsilon" width="300" height="200"/>
+  </td>
+</tr>
+</table>
 <hr width="80%" />
