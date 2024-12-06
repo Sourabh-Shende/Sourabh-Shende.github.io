@@ -468,8 +468,8 @@ author_profile: true
 </tr>
 </table>
 <ul style="list-style-type:square;">
-  <li> FEM with first order fully integrated element gives unrealistic stiff response due to volumetric locking and gives wider shear bands.
-  <li> FEM with second-order selective reduce integration is needed to counter the volumetric locking issue and give sharper shear bands. 
-  <li> DEM-AD can provide a volumetric locking-free solution similar FEM with second-order SRI that gives sharper shear bands as seen in the contour plot of the phase field.
+  <li> FEM with first order fully integrated element gives unrealistic stiff response due to volumetric locking that results in wider shear bands.
+  <li> FEM with second-order selective reduce integration (SRI) is needed to counter the volumetric locking issue and it predicts realistic sharper shear bands. 
+  <li> DEM-AD can provide a volumetric locking-free solution and predicts sharper shear bands.
 </ul><br>
 <hr width="80%" />
