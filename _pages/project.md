@@ -439,6 +439,7 @@ author_profile: true
   <li> <b>Gradients: </b> In-built automatic differentiation library of PyTorch is used to calculate the gradients of displacement and phase field (DEM-AD).</li>  
   </ul><br>
 <hr width="80%" />
+
   - Extension of square specimen<be>
 <ul style="list-style-type:square;">
   <li> </b>Elasticity parameters: </b> Youngs modulus, $E=2.1e5$ ; Poissons ratio, $\nu = 0.3$.</li>
@@ -474,5 +475,14 @@ author_profile: true
   <li> FEM with first order fully integrated element gives unrealistic stiff response due to volumetric locking that results in wider shear bands.</li> 
   <li> FEM with second-order selective reduce integration (SRI) is needed to counter the volumetric locking issue and it predicts realistic sharper shear bands.</li>  
   <li> DEM-AD can provide a volumetric locking-free solution and predicts sharper shear bands.</li> 
+</ul><br>
+<hr width="80%" />
+
+  - Unique plasticity parameters calibration<be>
+<ul style="list-style-type:square;">
+  <li> Bayesian optimization (BO) with displacement data obtained using digital image correlation (DIC) is considered for the plasticity material calibration.</li>
+  <li> Anisotropy is embedded in the Bayesian optimization (BO) framework by using unique kernel length scales for each plasticity parameter.</li>  
+  <li> The neural network is initially trained on the DIC displacement data to get a good starting point for the weights</li>
+  <li> DEM-AD equipped with transfer learning is utilized to solve the necessary forward problems.</li>    
 </ul><br>
 <hr width="80%" />
