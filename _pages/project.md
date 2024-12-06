@@ -10,6 +10,11 @@ author_profile: true
 </details>
 -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
+<style>
+span.small {
+  font-size: smaller;
+}
+</style>
 <h2>Bayesian optimization (BO) for origami-inspired folding structures</h2>
 - 1D schematic<br>
   
@@ -488,7 +493,7 @@ author_profile: true
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:25%" style="border: none">BO loss</th>
-   <th align="center" style="width:25%" style="border: none">$\gamma$ <small>(True value $= 0.1$)</small> </th>
+   <th align="center" style="width:25%" style="border: none">$\gamma$ <span class="small">(True value $= 0.1$)</span> </th>
    <th align="center" style="width:25%" style="border: none">$\sigma_0$ (True value $= 120$) </th>
    <th align="center" style="width:25%" style="border: none">$\epsilon$ (True value $= 2.5e-2$) </th>
   </tr>  
