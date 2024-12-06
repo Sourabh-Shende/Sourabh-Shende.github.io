@@ -432,6 +432,11 @@ author_profile: true
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscapeDEMAD.jpg?raw=true" width="450" height="300" alt="Schematic" title="Schematic"/>
 </p>
+<ul style="list-style-type:square;">
+  <li> <b>Solver: </b>A Fully connected feed-forward neural network approximates the displacement and scalar phase field.</li>
+  <li> <b>Loss: </b> Potential energy of the system and the slip irreversibility condition is minimized as loss. </li>
+  <li> <b>Gradients: </b> In-built automatic differentiation library of PyTorch is used to calculate the gradients of displacement and phase field (DEM-AD).</li>
+  </ul><br>
 <hr width="80%" />
   - Extension of square specimen<be>
 
@@ -448,7 +453,7 @@ author_profile: true
     <img src="https://Sourabh-Shende.github.io/Figures/SquareExtensionPhaseField.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
   </td>
   <tr style="border: none">
-   <th align="center" style="width:50%" style="border: none">Min. potential energy</th>
+   <th align="center" style="width:50%" style="border: none">Mininum potential energy</th>
    <th align="center" style="width:50%" style="border: none">Reaction force</th>
   </tr>
    </tr>
