@@ -434,7 +434,7 @@ author_profile: true
 </p>
 <ul style="list-style-type:square;">
   <li> <b>Solver: </b>A Fully connected feed-forward neural network approximates the displacement and scalar phase field.</li>
-  <li> <b>Slip: </b> The scalar phase field, s  $\left(0\leq s\leq 1\right)$, called slip represents the degree of plastic slip in the body such that the bulk material response is degraded in the areas where $s>0$plastic slip.</li>  
+  <li> <b>Slip: </b> The scalar phase field, s  $\left(0\leq s\leq 1\right)$, called slip represents the degree of plastic slip in the body such that the bulk material response is degraded in the areas where $s>0$ plastic slip.</li>  
   <li> <b>Loss: </b> Potential energy of the system and the slip irreversibility condition is minimized as loss. </li>
   <li> <b>Gradients: </b> In-built automatic differentiation library of PyTorch is used to calculate the gradients of displacement and phase field (DEM-AD).</li>  
   </ul><br>
@@ -468,8 +468,8 @@ author_profile: true
 </tr>
 </table>
 <ul style="list-style-type:square;">
-  <li> FEM with first order fully integrated element gives unrealistic stiff response due to volumetric locking that results in wider shear bands.
-  <li> FEM with second-order selective reduce integration (SRI) is needed to counter the volumetric locking issue and it predicts realistic sharper shear bands. 
-  <li> DEM-AD can provide a volumetric locking-free solution and predicts sharper shear bands.
+  <li> FEM with first order fully integrated element gives unrealistic stiff response due to volumetric locking that results in wider shear bands.</li> 
+  <li> FEM with second-order selective reduce integration (SRI) is needed to counter the volumetric locking issue and it predicts realistic sharper shear bands.</li>  
+  <li> DEM-AD can provide a volumetric locking-free solution and predicts sharper shear bands.</li> 
 </ul><br>
 <hr width="80%" />
