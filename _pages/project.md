@@ -442,7 +442,7 @@ author_profile: true
 
   - Extension of square specimen<be>
 <ul style="list-style-type:square;">
-  <li> </b>Elasticity parameters: </b> Youngs modulus, $E=2.1e5$ ; Poissons ratio, $\nu = 0.3$.</li>
+  <li> <b>Elasticity parameters: </b> Youngs modulus, $E=2.1e5$ ; Poissons ratio, $\nu = 0.3$.</li>
   <li> <b>Plasticity parameters: </b> Unpinning stiffness per area $\gamma = 0.1$; gliding resistance, $\sigma_0 = 120$; characteristic length $\epsilon = 2.5e-2$ .</li>  
 </ul><br>
 <table class="wide:100%" style="border: none">
