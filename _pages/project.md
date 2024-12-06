@@ -479,7 +479,7 @@ author_profile: true
 </ul><br>
 <hr width="80%" />
 
-  - Unique plasticity parameters calibration<be>
+  - Unique calibration of plasticity parameters <be>
 
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
@@ -526,10 +526,10 @@ author_profile: true
 </tr>
 </table>
 <ul style="list-style-type:square;">
-  <li> Bayesian optimization (BO) with displacement data obtained using digital image correlation (DIC) is considered for the plasticity material calibration.</li>
+  <li> Bayesian optimization (BO) with displacement data obtained using digital image correlation (DIC) is considered for the calibration of the plasticity parameters.</li>
   <li> Anisotropy is embedded in the Bayesian optimization (BO) framework by using unique kernel length scales for each plasticity parameter.</li>  
   <li> The neural network is initially trained on the DIC displacement data to get a good starting point for the weights</li>
   <li> DEM-AD equipped with transfer learning is utilized to solve the necessary forward problems.</li>
-  <li> DEM-AD equipped with transfer learning uniquely calibrates plasticity parameters <b>6x</b>b> faster than using FEM.</li>   
+  <li> DEM-AD equipped with transfer learning uniquely calibrates plasticity parameters <b>6x</b> faster than using FEM.</li>   
 </ul><br>
 <hr width="80%" />
