@@ -488,9 +488,9 @@ author_profile: true
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:25%" style="border: none">BO loss</th>
-   <th align="center" style="width:25%" style="border: none">$\gamma$ True value $= 0.1$ </th>
-   <th align="center" style="width:25%" style="border: none">$\sigma_0$ True value $= 120$ </th>
-   <th align="center" style="width:25%" style="border: none">$\epsilon$ True value $= 2.5e-2$ </th>
+   <th align="center" style="width:25%" style="border: none">$\gamma$ <small>(True value $= 0.1$)</small> </th>
+   <th align="center" style="width:25%" style="border: none">$\sigma_0$ (True value $= 120$) </th>
+   <th align="center" style="width:25%" style="border: none">$\epsilon$ (True value $= 2.5e-2$) </th>
   </tr>  
 <tr style="border: none">
  <td align="center" style="border: none">
