@@ -436,7 +436,7 @@ author_profile: true
   <li> <b>Solver: </b>A Fully connected feed-forward neural network approximates the displacement and scalar phase field.</li>
   <li> <b>Loss: </b> Potential energy of the system and the slip irreversibility condition is minimized as loss. </li>
   <li> <b>Gradients: </b> In-built automatic differentiation library of PyTorch is used to calculate the gradients of displacement and phase field (DEM-AD).</li>
-  <li> <b>Slip: </b> The scalar phase field s  $\left(0\leq s\leq 1\right)$ is called slip and it represents the plastic slip.</li>
+  <li> <b>Slip: </b> The scalar phase field, s  $\left(0\leq s\leq 1\right)$, called slip represents the degree of plastic slip in the body such that the bulk material response is degraded in the areas where $s>0$plastic slip.</li>
   </ul><br>
 <hr width="80%" />
   - Extension of square specimen<be>
