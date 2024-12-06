@@ -239,7 +239,7 @@ author_profile: true
 </table>
 <ul style="list-style-type:square;">
   <li> Anisotropy-enhanced GP gives a better fit than traditional GP for functions with dominant design variables.</li>
-  <li> Anisotropy-enhanced GP can be used as dimension reduction technique using automatic relevance determination (ARD).</li>
+  <li> Anisotropy-enhanced GP can be used as a dimension reduction technique using automatic relevance determination (ARD).</li>
   </ul><br> 
 <hr width="80%" />
   - Twist chomper origami folding structure<br>
@@ -480,12 +480,7 @@ author_profile: true
 <hr width="80%" />
 
   - Unique plasticity parameters calibration<be>
-<ul style="list-style-type:square;">
-  <li> Bayesian optimization (BO) with displacement data obtained using digital image correlation (DIC) is considered for the plasticity material calibration.</li>
-  <li> Anisotropy is embedded in the Bayesian optimization (BO) framework by using unique kernel length scales for each plasticity parameter.</li>  
-  <li> The neural network is initially trained on the DIC displacement data to get a good starting point for the weights</li>
-  <li> DEM-AD equipped with transfer learning is utilized to solve the necessary forward problems.</li>    
-</ul><br>
+
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:25%" style="border: none">BO loss</th>
@@ -530,4 +525,11 @@ author_profile: true
   </td>
 </tr>
 </table>
+<ul style="list-style-type:square;">
+  <li> Bayesian optimization (BO) with displacement data obtained using digital image correlation (DIC) is considered for the plasticity material calibration.</li>
+  <li> Anisotropy is embedded in the Bayesian optimization (BO) framework by using unique kernel length scales for each plasticity parameter.</li>  
+  <li> The neural network is initially trained on the DIC displacement data to get a good starting point for the weights</li>
+  <li> DEM-AD equipped with transfer learning is utilized to solve the necessary forward problems.</li>
+  <li> DEM-AD equipped with transfer learning uniquely calibrates plasticity parameters <b>6x</b>b> faster than using FEM.</li>   
+</ul><br>
 <hr width="80%" />
