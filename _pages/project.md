@@ -511,9 +511,9 @@ author_profile: true
 </tr>
 </table>
 <ul style="list-style-type:square;">
-  <li> FEM with first order fully integrated element gives unrealistic stiff response due to volumetric locking that results in wider shear bands.</li> 
-  <li> FEM with second-order selective reduce integration (SRI) is needed to counter the volumetric locking issue and it predicts realistic sharper shear bands.</li>  
-  <li> DEM-AD can provide a volumetric locking-free solution and predicts sharper shear bands.</li> 
+  <li> FEM and DEM-AD solution accurately predicts the onset of the plastic slip near the hole.</li> 
+  <li> FEM with second-order selective reduce integration (SRI) follows the higher minimum potential energy path indicating that it gets trapped in local solution.</li>  
+  <li> DEM-AD follows the lower minimum potential energy path.</li> 
 </ul><br>
 <hr width="80%" />
   - <u>Unique calibration of plasticity parameters</u> <be>
