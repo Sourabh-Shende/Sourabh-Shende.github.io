@@ -12,7 +12,7 @@ author_profile: true
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 
 <h2>Bayesian optimization (BO) for origami-inspired folding structures</h2>
-- 1D schematic<br>
+- <u>1D schematic<br></u>
   
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/GPBO_1D_wo_der.gif?raw=true" width="300" height="200" alt="Schematic" title="Schematic"/>
