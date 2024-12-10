@@ -491,7 +491,7 @@ author_profile: true
   </tr>
 <tr>
   <td align="center" style="border: none">
-     <img src="https://Sourabh-Shende.github.io/Figures/ProbSquareHoleElem8175Setup.jpg" alt="Setup" title="Setup" width="200" height="200"/>
+     <img src="https://Sourabh-Shende.github.io/Figures/ProbSquareHoleElem8175Setup_page.jpg" alt="Setup" title="Setup" width="200" height="200"/>
   </td>
   <td align="center" style="border: none">
     <img src="https://Sourabh-Shende.github.io/Figures/Slip_FEnics_7_DEMAD_14e3.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
