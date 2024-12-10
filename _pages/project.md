@@ -33,7 +33,7 @@ author_profile: true
 
 <hr width="80%" />
 
-  - Chomper origami folding structure <br>    
+  - <u>Chomper origami folding structure</u> <br>    
 <table class="wide:70%" style="border: none">
 <tr style="border: none">
    <th align="center" style="width:35%" style="border: none">Problem setup</th>
@@ -67,7 +67,7 @@ author_profile: true
   <li> Bayesian (BO) finds optimal design and takes ~34 x fewer FE solution than genetic algorithm (GA)</li>  
 </ul><br>
 <hr width="80%" />
-  - Twist chomper origami folding structure<br>
+  - <u>Twist chomper origami folding structure</u><br>
   
 <table class="wide:70%" style="border: none">
  <tr style="border: none">
@@ -105,7 +105,7 @@ author_profile: true
 <hr width="80%" size="10px" />
 ## Gradient-enhanced Bayesian optimization (GEBO)
 
-  - 1D schematic<br>
+  - <u>1D schematic</u><br>
   
 <table class="wide:70%" style="border: none">
  <tr style="border: none">
@@ -121,7 +121,7 @@ author_profile: true
   </td>
  </tr>
 </table>
-  - 2D schematic<br>
+  - <u>2D schematic</u><br>
  <table class="wide:72%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:24%" style="border: none">Objective function</th>
@@ -145,7 +145,7 @@ author_profile: true
   <li> Gradient enriched GP gives a better fit than traditional GP.</li>
   </ul><br> 
 <hr width="80%" />
-  - Airfoil shape optimization<br>
+  - <u>Airfoil shape optimization</u><br>
   
 <table class="wide:70%" style="border: none">
  <tr style="border: none">
@@ -179,7 +179,7 @@ author_profile: true
   </ul><br> 
 <hr width="80%" />  
 
-  - Square twist origami folding structure<br>
+  - <u>Square twist origami folding structure</u><br>
   
 <table class="wide:70%" style="border: none">
  <tr style="border: none">
@@ -217,7 +217,7 @@ author_profile: true
 
 <hr width="80%" />
 ## Anisotropy-enhanced Bayesian optimization
-  - 2D schematic<br>
+  - <u>2D schematic</u><br>
   
 <table class="wide:72%" style="border: none">
  <tr style="border: none">
@@ -242,7 +242,7 @@ author_profile: true
   <li> Anisotropy-enhanced GP can be used as a dimension reduction technique using automatic relevance determination (ARD).</li>
   </ul><br> 
 <hr width="80%" />
-  - Twist chomper origami folding structure<br>
+  - <u>Twist chomper origami folding structure</u><br>
   
 <table class="wide:70%" style="border: none">
  <tr style="border: none">
@@ -282,7 +282,7 @@ author_profile: true
 
 ## Deep energy minimization (DEM) framework for hyperelastic multistable structures
 
-  - Schematic DEM-SF<br>
+  - <u>Schematic DEM-SF</u><br>
   
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/NeuralNetworkSchematicv2.jpg?raw=true" width="450" height="300" alt="Schematic" title="Schematic"/>
@@ -294,7 +294,7 @@ author_profile: true
   <li> <b>Gradients: </b> Finite element shape functions are used to calculate the gradients of displacement (DEM-SF).</li>
   </ul><br>
   
-  - Buckling of rectangular beam<br>
+  - <u>Buckling of rectangular beam</u><br>
 <table class="wide:99%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:33%" style="border: none">FEM Compression</th>
@@ -325,7 +325,7 @@ author_profile: true
   <li> The deep energy minimization framework when automatic differentiation (DEM-AD) is utilized to calculate the gradients gives a non-physical solution.</li>
   </ul><br>
 <hr width="80%" />
-  - Bi-stable unit cell<br>
+  - <u>Bi-stable unit cell</u><br>
 <table class="wide:99%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:33%" style="border: none">FEM Compression</th>
@@ -355,7 +355,7 @@ author_profile: true
   <li> DEM-SF accurately predicts the second stable state.</li>
   </ul><br>
 <hr width="80%" />
-  - Multistable structure<br>
+  - <u>Multistable structure</u><br>
 
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
@@ -375,7 +375,7 @@ author_profile: true
   <li> DEM-SF can accurately predict multiple stable states.</li>
   </ul><br>
 <hr width="80%" />
-  - Load step independence<br>
+  - <u>Load step independence<br>
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:50%" style="border: none">Problem setup</th>
@@ -395,7 +395,7 @@ author_profile: true
   <li> FEM with larger load steps runs into convergence issues.</li>
   </ul><br>
 <hr width="80%" />
-  - Transfer learning<br>
+  - <u>Transfer learning</u><br>
  <table class="wide:100%" style="border: none">
  <tr style="border: none">
    <th align="center" style="width:50%" style="border: none">Trained design</th>
@@ -428,7 +428,7 @@ author_profile: true
 <hr width="80%" />
 ## Deep energy minimization framework for phase-field elastic-perfectly plasticity problems
 
-  - Schematic<br>
+  - <u>Schematic<br>
 
 <p align="center">
   <img src="https://Sourabh-Shende.github.io/Figures/ForwardFrameworkSchematicInkscapeDEMAD.jpg?raw=true" width="450" height="300" alt="Schematic" title="Schematic"/>
@@ -441,7 +441,7 @@ author_profile: true
   </ul><br>
 <hr width="80%" />
 
-  - Extension of square specimen<be>
+  - <u>Extension of square specimen</u><be>
 <ul style="list-style-type:square;">
   <li> <b>Elasticity parameters: </b> Youngs modulus, $E=2.1e5$ ; Poissons ratio, $\nu = 0.3$.</li>
   <li> <b>Plasticity parameters: </b> Unpinning stiffness per area $\gamma = 0.1$; gliding resistance, $\sigma_0 = 120$; characteristic length $\epsilon = 2.5e-2$ .</li>  
@@ -479,7 +479,7 @@ author_profile: true
 </ul><br>
 <hr width="80%" />
 
-  - Unique calibration of plasticity parameters <be>
+  - <u>Unique calibration of plasticity parameters</u> <be>
 
 <table class="wide:100%" style="border: none">
  <tr style="border: none">
