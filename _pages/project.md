@@ -479,6 +479,43 @@ author_profile: true
 </ul><br>
 <hr width="80%" />
 
+  - <u>Extension of square plate with hole</u><be>
+<ul style="list-style-type:square;">
+  <li> <b>Elasticity parameters: </b> Youngs modulus, $E=2.1e5$ ; Poissons ratio, $\nu = 0.3$.</li>
+  <li> <b>Plasticity parameters: </b> Unpinning stiffness per area $\gamma = 0.025$; gliding resistance, $\sigma_0 = 120$; characteristic length $\epsilon = 2.5e-2$ .</li>  
+</ul><br>
+<table class="wide:100%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">Problem setup</th>
+   <th align="center" style="width:50%" style="border: none">Phase field s</th>
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/Squaredomain.jpg" alt="Setup" title="Setup" width="200" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/SquareExtensionPhaseField.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
+  </td>
+  <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">Mininum potential energy</th>
+   <th align="center" style="width:50%" style="border: none">Reaction force</th>
+  </tr>
+   </tr>
+<tr style="border: none">
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_Pi_Loss.jpg" alt="potential energy" title="potential energy" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_mid_RF2_Loss.jpg" alt="Reaction force" title="Reaction force" width="300" height="200"/>
+  </td>
+</tr>
+</table>
+<ul style="list-style-type:square;">
+  <li> FEM with first order fully integrated element gives unrealistic stiff response due to volumetric locking that results in wider shear bands.</li> 
+  <li> FEM with second-order selective reduce integration (SRI) is needed to counter the volumetric locking issue and it predicts realistic sharper shear bands.</li>  
+  <li> DEM-AD can provide a volumetric locking-free solution and predicts sharper shear bands.</li> 
+</ul><br>
+<hr width="80%" />
   - <u>Unique calibration of plasticity parameters</u> <be>
 
 <table class="wide:100%" style="border: none">
