@@ -491,10 +491,10 @@ author_profile: true
   </tr>
 <tr>
   <td align="center" style="border: none">
-     <img src="https://Sourabh-Shende.github.io/Figures/Squaredomain.jpg" alt="Setup" title="Setup" width="200" height="200"/>
+     <img src="https://Sourabh-Shende.github.io/Figures/ProbSquareHoleElem8175Setup.jpg" alt="Setup" title="Setup" width="200" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/SquareExtensionPhaseField.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/Slip_FEnics_7_DEMAD_14e3.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
   </td>
   <tr style="border: none">
    <th align="center" style="width:50%" style="border: none">Mininum potential energy</th>
@@ -503,10 +503,10 @@ author_profile: true
    </tr>
 <tr style="border: none">
  <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_Pi_Loss.jpg" alt="potential energy" title="potential energy" width="300" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/SquareHole_Fenics_7_DEMAD_14e3_11a_Pi.jpg" alt="potential energy" title="potential energy" width="300" height="200"/>
   </td>
   <td align="center" style="border: none">
-    <img src="https://Sourabh-Shende.github.io/Figures/Fenics23a_30a_DEMAD_138a_mid_RF2_Loss.jpg" alt="Reaction force" title="Reaction force" width="300" height="200"/>
+    <img src="https://Sourabh-Shende.github.io/Figures/SquareHole_Fenics_7_DEMAD_14e3_11a_ReactForce.jpg" alt="Reaction force" title="Reaction force" width="300" height="200"/>
   </td>
 </tr>
 </table>
