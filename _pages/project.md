@@ -516,6 +516,44 @@ author_profile: true
   <li> DEM-AD follows the lower minimum potential energy path.</li> 
 </ul><br>
 <hr width="80%" />
+
+ - <u>Extension of rectangular plate with two asymmetrical notches</u><be>
+<ul style="list-style-type:square;">
+  <li> <b>Elasticity parameters: </b> Youngs modulus, $E=2.1e5$ ; Poissons ratio, $\nu = 0.3$.</li>
+  <li> <b>Plasticity parameters: </b> Unpinning stiffness per area $\gamma = 0.2$; gliding resistance, $\sigma_0 = 80$; characteristic length $\epsilon = 2.5e-2$ .</li>  
+</ul><br>
+<table class="wide:100%" style="border: none">
+ <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">Problem setup</th>
+   <th align="center" style="width:50%" style="border: none">Phase field s</th>
+  </tr>
+<tr>
+  <td align="center" style="border: none">
+     <img src="https://Sourabh-Shende.github.io/Figures/ProbRect2HoleassymMeshElem12357Setup.jpg" alt="Setup" title="Setup" width="200" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Rect2HoleAssym_Fenics_5_DEMAD_12a.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
+  </td>
+  <tr style="border: none">
+   <th align="center" style="width:50%" style="border: none">Mininum potential energy</th>
+   <th align="center" style="width:50%" style="border: none">Reaction force</th>
+  </tr>
+   </tr>
+<tr style="border: none">
+ <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Rect2HoleAssym_Fenics_5_DEMAD_12a_Pi.jpg" alt="potential energy" title="potential energy" width="300" height="200"/>
+  </td>
+  <td align="center" style="border: none">
+    <img src="https://Sourabh-Shende.github.io/Figures/Rect2HoleAssym_Fenics_5_DEMAD_12a_ReactForce.jpg" alt="Reaction force" title="Reaction force" width="300" height="200"/>
+  </td>
+</tr>
+</table>
+<ul style="list-style-type:square;">
+  <li> FEM and DEM-AD solution accurately predicts the onset of the plastic slip near the notches.</li> 
+  <li> FEM with second-order selective reduce integration (SRI) follows the higher minimum potential energy path that leads to wider shear bands.</li>  
+  <li> DEM-AD follows the lower minimum potential energy path that leads to sharper shear bands.</li> 
+</ul><br>
+<hr width="80%" />
   - <u>Unique calibration of plasticity parameters</u> <be>
 
 <table class="wide:100%" style="border: none">
