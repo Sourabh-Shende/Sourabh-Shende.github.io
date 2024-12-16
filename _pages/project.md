@@ -529,7 +529,7 @@ author_profile: true
   </tr>
 <tr>
   <td align="center" style="border: none">
-     <img src="https://Sourabh-Shende.github.io/Figures/ProbRect2HoleassymMeshElem12357Setup.jpg" alt="Setup" title="Setup" width="200" height="200"/>
+     <img src="https://Sourabh-Shende.github.io/Figures/ProbRect2HoleassymMeshElem12357Setup.jpg" alt="Setup" title="Setup" width="100" height="500"/>
   </td>
   <td align="center" style="border: none">
     <img src="https://Sourabh-Shende.github.io/Figures/Rect2HoleAssym_Fenics_5_DEMAD_12a.gif" alt="Phase field s" title="Phase field s" width="400" height="200"/>
