@@ -12,7 +12,7 @@ I am a Doctor of Philosophy (PhD) candidate advised by Prof. Kumar Vemaganti at 
 
 I also work as a Graduate research assistant on research projects in collaboration with Procter & Gamble (P&G) at the UC Simulation Center. My work involves developing an accurate finite element model of paper at the fiber scale level. I am also responsible for developing performance tests for determining the strength of the paper. 
 
-I recently passed my PhD candidacy defense and am actively looking for job opportunities in the area of numerical development and scientific machine learning. I earned my Master of Science (M.S.) in mechanical engineering in 2020 from the University of Cincinnati, where my research was focused on developing an efficient Bayesian optimization algorithm to discover optimal design solutions for origami-inspired folding structures.
+I recently passed my PhD candidacy defense and am actively looking for job opportunities in CAE and scientific machine learning. I earned my Master of Science (M.S.) in mechanical engineering in 2020 from the University of Cincinnati, where my research was focused on developing an efficient Bayesian optimization algorithm to discover optimal design solutions for origami-inspired folding structures.
 
 - Resume: [Link](https://Sourabh-Shende.github.io/_pages/Resume_SourabhShende2.pdf)
 - Research overview: [Link](https://sourabh-shende.github.io/projects/)
